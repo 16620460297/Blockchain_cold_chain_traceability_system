@@ -19,7 +19,7 @@ var GlobalMySQLConfig = MySQLConfig{
 	Host:     "localhost",
 	Port:     3306,
 	User:     "root",
-	Password: "MO520MING",
+	Password: "20040712",
 	DBName:   "cold_chain",
 }
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Blockchain_cold_chain_traceability_system.iml" filepath="$PROJECT_DIR$/.idea/Blockchain_cold_chain_traceability_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/back_Blockchain_cold_chain_traceability_system.iml" filepath="$PROJECT_DIR$/.idea/back_Blockchain_cold_chain_traceability_system.iml" />
     </modules>
   </component>
 </project>

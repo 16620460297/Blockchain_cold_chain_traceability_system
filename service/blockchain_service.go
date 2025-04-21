@@ -1,7 +1,7 @@
 package service
 
 import (
-	"Blockchain_cold_chain_traceability_system/configs"
+	"back_Blockchain_cold_chain_traceability_system/configs"
 	"crypto/sha256"
 	"encoding/hex"
 	"github.com/gin-gonic/gin"

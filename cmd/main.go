@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Blockchain_cold_chain_traceability_system/configs"
-	"Blockchain_cold_chain_traceability_system/service"
+	"back_Blockchain_cold_chain_traceability_system/configs"
+	"back_Blockchain_cold_chain_traceability_system/service"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"

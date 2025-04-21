@@ -11,8 +11,8 @@ var RedisClient *redis.Client
 func InitRedis() error {
 	RedisClient = redis.NewClient(&redis.Options{
 		Addr:     "localhost:6379",
-		Password: "000000", // no password set
-		DB:       0,        // use default DB
+		Password: "", // no password set
+		DB:       0,  // use default DB
 	})
 
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)

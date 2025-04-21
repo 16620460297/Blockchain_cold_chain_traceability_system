@@ -1,8 +1,8 @@
 package service
 
 import (
-	"Blockchain_cold_chain_traceability_system/api"
-	"Blockchain_cold_chain_traceability_system/configs"
+	"back_Blockchain_cold_chain_traceability_system/api"
+	"back_Blockchain_cold_chain_traceability_system/configs"
 	"encoding/json"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"
